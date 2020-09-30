@@ -24,4 +24,27 @@ Commands that you will be needing during this project are as follows:
     to the target bar. It will work fine now.
 
 9) npm install -g heroku               (for deployment)
+10) git init
+11) git add .
+    
+    Meanwhile ,Make new file ".gitignore" and type "node_modules" on one line and 
+    "Project Pictures" on other line
 
+13) git init -m "Zoom clone"
+14) heroku create                  (deployment starts here)
+
+    you will asked to enter any key and press any key and log in to heroku account
+
+15) git push heroku master
+16) heroku ps:scale web=1
+17) heroku open
+
+   Your browser will be opened with a specific link
+   Copy Paste this link and make your friends join the video call with you.
+  
+   My video link was: 
+   https://peaceful-plains-78358.herokuapp.com/7b26c276-96f6-4bf7-92ec-3eb7fd90add8
+
+
+Big Thanks to Clever Programmers for making this happen.
+Happy Coding!
