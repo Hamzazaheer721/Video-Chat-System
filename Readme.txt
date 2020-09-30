@@ -23,6 +23,10 @@ Commands that you will be needing during this project are as follows:
     
     to the target bar. It will work fine now.
 
+
+---------------------------------------------------------- O P T I O N A L - P A R T --------------------------------------------------
+
+
 9) npm install -g heroku               (for deployment)
 10) git init
 11) git add .
