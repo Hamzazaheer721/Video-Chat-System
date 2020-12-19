@@ -34,7 +34,7 @@ Commands that you will be needing during this project are as follows:
     Meanwhile ,Make new file ".gitignore" and type "node_modules" on one line and 
     "Project Pictures" on other line
 
-13) git init -m "Zoom clone"
+13) git init -m "Video Chat Module"
 14) heroku create                  (deployment starts here)
 
     you will asked to enter any key and press any key and log in to heroku account
@@ -50,5 +50,3 @@ Commands that you will be needing during this project are as follows:
    https://peaceful-plains-78358.herokuapp.com/7b26c276-96f6-4bf7-92ec-3eb7fd90add8
 
 
-Big Thanks to Clever Programmers for making this happen.
-Happy Coding!
