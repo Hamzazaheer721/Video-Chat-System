@@ -48,5 +48,3 @@ Commands that you will be needing during this project are as follows:
   
    My video link was: 
    https://peaceful-plains-78358.herokuapp.com/7b26c276-96f6-4bf7-92ec-3eb7fd90add8
-
-
